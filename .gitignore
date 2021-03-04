@@ -48,3 +48,4 @@ atlassian-ide-plugin.xml
 /.vscode/
 /.history/
 sync_upstream.sh
+/local/codechecker/
